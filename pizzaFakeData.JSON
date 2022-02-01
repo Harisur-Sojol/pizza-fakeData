@@ -1,0 +1,23 @@
+[
+    {
+        "id": "p1",
+        "img": "https://i.ibb.co/DbDhQ9k/product-1.jpg",
+        "name": "Supreme Pizza",
+        "description": "Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto",
+        "price": "$19.99"
+    },
+    {
+        "id": "p2",
+        "img": "https://i.ibb.co/FWYKspM/product-2.jpg",
+        "name": "Hawaiian Paradise",
+        "description": "Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto",
+        "price": "$16.99"
+    },
+    {
+        "id": "p3",
+        "img": "https://i.ibb.co/6HV4J6Q/product-3.jpg",
+        "name": "Veggie Overload",
+        "description": "Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto",
+        "price": "$14.99"
+    }
+]
